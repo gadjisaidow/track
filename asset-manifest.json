@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/gadjisaidow/track.git/static/js/app.4ee96090.chunk.js",
-    "app.js.map": "/gadjisaidow/track.git/static/js/app.4ee96090.chunk.js.map",
+    "app.js": "/gadjisaidow/track.git/static/js/app.bd8b4e59.chunk.js",
+    "app.js.map": "/gadjisaidow/track.git/static/js/app.bd8b4e59.chunk.js.map",
     "runtime~app.js": "/gadjisaidow/track.git/static/js/runtime~app.92a48ebd.js",
     "runtime~app.js.map": "/gadjisaidow/track.git/static/js/runtime~app.92a48ebd.js.map",
     "static/js/2.fb93eacb.chunk.js": "/gadjisaidow/track.git/static/js/2.fb93eacb.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime~app.92a48ebd.js",
     "static/js/2.fb93eacb.chunk.js",
-    "static/js/app.4ee96090.chunk.js"
+    "static/js/app.bd8b4e59.chunk.js"
   ]
 }
