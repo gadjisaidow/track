@@ -30,7 +30,7 @@ export default function App() {
 
   const [user, setUser] = React.useState(0);
 
-  var token = localStorage.getItem('user')
+  var token = 1;
 
 
 
